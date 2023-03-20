@@ -4,13 +4,14 @@
 - Frontend: -TheG-
 - Backend: mkgrtx
 - Other: risby
-- _NOTE: we will also help each other out outside of our roles_
 
-**Sprint Deliverables**
-- Form page for users to submit tickets
-  - Confirmation & validation message upon ticket submission
-- Page for displaying tickets
-  - Clicking on ticket will display entire ticket details
+**Sprint deliverables**
+- Ticket form page
+  - Create tickets
+  - Success/ fail notification
+- Tickets page
+  - View all tickets
+  - View single ticket detail
 
 **Sprint Deadline**
 - Monday March 27
